@@ -15,3 +15,7 @@ div.card{
   width: 90%;
 
 }
+
+.form-control{
+  min-width: 100%;
+}
